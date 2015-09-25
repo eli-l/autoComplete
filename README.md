@@ -7,17 +7,17 @@ $('input_wraper').ajaxSearch(settingsObject, callbackObject);
 
 ##Full list of object params:
 
-settingsObject {
-	timer : 300 (default)
-	reqUrl: "",
-	reqType: "GET" (default),
-	respType: "JSON" (default),
-	callback: [object]
-}
+settingsObject { <br/>
+	timer : 300 (default), <br/> 
+	reqUrl: "", <br/>
+	reqType: "GET" (default), <br/>
+	respType: "JSON" (default), <br/>
+	callback: [object] <br/>
+} <br/>
 
-callbackObject {
-	success : '',
-	error : ''
-}
-
-That means, callbacks can be defined within settings object, or as second callback parameters.
+callbackObject { <br/>
+	success : '', <br/>
+	error : '' <br/>
+} <br/>
+<br/>
+It means, callbacks can be defined within settings object, or as second callback parameters.
