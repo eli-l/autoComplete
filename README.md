@@ -24,4 +24,5 @@ callbackObject { <br/>
 ```
 *It means, callbacks can be defined within settings object, or as second callback parameters.*
 
-##
+**Feel free to comment, fork, pull etc.**
+I will appreciate for your feedback.
